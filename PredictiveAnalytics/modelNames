@@ -1,0 +1,43 @@
+logRegaccuracies
+nbaccuracies
+knnaccuracies
+svcaccuracies
+pcaLogRegaccuracies
+pcaSVCaccuracies
+kernelSVCaccuracies
+decTreeAccuracies
+randomForestaccuracies
+lgbmaccuracies
+xgbAccuracies
+mlpaccuracies
+
+
+
+Methods/techniques applied and ther brief description
+
+dataset description
+
+EDA
+
+data pre-processing steps used
+
+results and discussion
+
+conclusions
+
+screenshots, tables, figures etc
+
+references
+
+I have wandered a lot in life, not knowing its purpose - like a moth chasing a distant moon.
+
+
+
+LogReg
+HDA: lhgfdf
+
+KFA: [2,,3,]
+
+
+
+Danielle and Salda - Nobody
